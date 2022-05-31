@@ -5,6 +5,7 @@ class Home extends Component {
     return (
       <div className='container text-center mt-3'>
             <p>home</p>
+            <h1>deneme</h1>
       </div>
     )
   }
