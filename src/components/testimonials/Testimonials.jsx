@@ -19,26 +19,26 @@ const data=
   {
     id:1,
     avatar:AVTR1,
-    name: 'Tina Snow',
-    review:'Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500 lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.'
+    name: 'Berna Tozcu',
+    review:'Web sitemi daha önce bir başka firmaya yaptırmıştım.Site sonrasında çıkan hatalar ile ilgilenmediler.AKT yazılım ile tanıştım şuanda çok memmunum.'
   },
   {
     id:2,
     avatar:AVTR2,
-    name: 'Shatta Wale',
-    review:'Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500 lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.'
+    name: 'İsmail Avlu',
+    review:'Merhaba, Kurumsal e-ticaret sitemizi AKT yazılım tasarladı.Şuanda herşey çok güzel ilginizden dolayı teşekkürederiz.'
   },
   {
     id:3,
     avatar:AVTR3,
-    name: 'Kwame Despite',
-    review:'Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500 lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.'
+    name: 'Ali Çolak',
+    review:'Pdrc Oto firmam için müşteri araç takip yazılımı yaptırdım.Müşterilerim araçlarını servisimize bıraktıkdan sonra aracı için yapılan tüm işlemlere canlı ulaşabiliyor teşekkürler.'
   },
   {
     id:3,
     avatar:AVTR4,
-    name: 'Kwame Despite',
-    review:'Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500 lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.'
+    name: 'Yıldız Kara',
+    review:'Fulya da petshop hizmeti veriyoruz.Ürünlerimizi internetden satmak için AKT ile tanıştık ve e-ticaret sitemiz şuanda aktif.Çok ilgililer teşekkür ederiz.'
   },
 ]
 

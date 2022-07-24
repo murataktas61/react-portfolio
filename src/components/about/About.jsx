@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me3.png'
 
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
@@ -23,20 +23,22 @@ const About = () => {
               <article className='about__card'>
                   <FaAward className='about__icon'/>
                   <h5>Experience</h5>
-                  <small>+3 Years Working</small>
+                  <small>+6 Years Working</small>
               </article>
               <article className='about__card'>
                   <FiUsers className='about__icon'/>
                   <h5>Clients</h5>
-                  <small>200+ Worldwide</small>
+                  <small>30+ Worldwide</small>
               </article>
               <article className='about__card'>
                   <VscFolderLibrary className='about__icon'/>
                   <h5>Projects</h5>
-                  <small>80+ Completed</small>
+                  <small>15+ Completed</small>
               </article>
             </div>
-            <p>Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.</p>
+            <p>I am a graduate of Istanbul Aydın University Computer Programming Department and I have been working on my department since 2015.<br></br>
+            Since 2015, I have been involved in software work, covering a variety of fields of study.
+                Among my works are HTML, CSS, JavaScript, React, MySQL etc. code languages ​​available.</p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
 

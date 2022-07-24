@@ -10,99 +10,76 @@ const Services = () => {
       <div className='container services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Software Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Web Application Development</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>SITECORE DEVELOPMENT</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Mobile Application Development</p>
+            </li>
+          </ul>
+        </article>
+
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Technology Consultancy</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Sharepoint Consultancy</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Sitecore Consultancy</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>.NET Framework Consultancy</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>MS-SQL Database Management Consultancy</p>
             </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Design (UI-UX) Technologies Consultancy</p>
+            </li>
+           
         
           </ul>
         </article>
 
         <article className='service'>
           <div className='service__head'>
-            <h3>Web Development</h3>
+            <h3>Design Services</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Mobile Application Design</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Web Application Design</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Wireframe Design</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Development</p>
             </li>
         
-          </ul>
-        </article>
-
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Content Creation</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-            </li>
         
           </ul>
         </article>

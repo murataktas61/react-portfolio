@@ -1,32 +1,32 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG1 from '../../assets/cryptoapp.png'
+import IMG2 from '../../assets/portfoliome.png'
+/* import IMG3 from '../../assets/portfolio3.jpg' */
 
 
 const data=[
   {
     id:1,
     image:IMG1,
-    title:'Crypto Currency Dashboard',
-    github: 'www.aktyazilim.com',
-    demo: 'aktyazilim.com'
+    title:'Cryptocurrency Tracking',
+    github: 'https://github.com/murataktas61/cryptoapp',
+    demo: '#'
   },
   {
     id:2,
     image:IMG2,
-    title:'Crypto Currency Dashboard 2',
-    github: 'www.aktyazilim.com',
-    demo: 'aktyazilim.com'
+    title:'React Portfolio',
+    github: 'https://github.com/murataktas61/react-portfolio',
+    demo: '#'
   },
-  {
+/*   {
     id:3,
     image:IMG3,
     title:'Crypto Currency Dashboard 3',
     github: 'www.aktyazilim.com',
     demo: 'aktyazilim.com'
-  }
+  } */
 ]
 
 
@@ -46,7 +46,7 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className='portfolio__item-cta'>
-                <a href={github} className='btn'>Github</a>
+                <a href={github} className='btn' target="_blank">Github</a>
                 <a href={demo} className='btn btn-primary'>Live Demo</a>
               </div>
             </article>
